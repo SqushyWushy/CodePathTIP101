@@ -35,7 +35,3 @@ Feel free to explore my code! It’s all beginner-level, but I’m proud of how 
 ## Contact Me
 
 If you’re interested in following my progress or have any feedback, feel free to reach out to me here on GitHub!
-
-
-```bash
-python filename.py
