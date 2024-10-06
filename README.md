@@ -26,5 +26,16 @@ To run any of the Python scripts:
 1. Navigate to the specific week's folder.
 2. Use Python 3.x to run the script from your terminal:
 
+## Why This Repository?
+
+I’m using this repository to document my learning process and track my progress over time. Since I started in Week 3, the content here will grow as I complete more assignments and projects.
+
+Feel free to explore my code! It’s all beginner-level, but I’m proud of how far I’ve come and excited about what’s next. 😊
+
+## Contact Me
+
+If you’re interested in following my progress or have any feedback, feel free to reach out to me here on GitHub!
+
+
 ```bash
 python filename.py
